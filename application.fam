@@ -2,7 +2,7 @@
 
 App(
     appid="knit_counter",  # Must be unique
-    name="Knit Counter",  # Displayed in menus
+    name="Credit Counter",  # Displayed in menus
     apptype=FlipperAppType.EXTERNAL,
     entry_point="knit_counter_app",
     stack_size=2 * 1024,
